@@ -1,0 +1,3 @@
+#!/bin/sh
+./genblog/genblog
+scp -P 2222 out/index.html dvfm@fettemama.org:www
