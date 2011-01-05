@@ -67,9 +67,9 @@ void append_post_to_fp (const char *filename, FILE *f_out)
 
 void append_date_to_fp (const char *date, FILE *f_out)
 {
-	append_file_to_fp ("templates/main/date/header.template", f_out);
+	append_file_to_fp ("templates/main/date/prefix.template", f_out);
 	append_str_to_fp (date, f_out);
-	append_file_to_fp ("templates/main/date/footer.template", f_out);
+	append_file_to_fp ("templates/main/date/suffix.template", f_out);
 }
 
 void append_posts_from_dir_to_fp (const char *dirname, FILE *f_out)
@@ -86,6 +86,8 @@ void append_posts_from_dir_to_fp (const char *dirname, FILE *f_out)
 	size_t savepos = ftell(f_out);
 	append_date_to_fp (dirname, f_out);
 
+	append_file_to_fp ("templates/main/date/blockheader.template", f_out);
+	
 	//let's add the posts for today
 	int post_count_for_date = 0;
 
@@ -108,6 +110,7 @@ void append_posts_from_dir_to_fp (const char *dirname, FILE *f_out)
 	}
 	free (dir_entries);
 	
+	append_file_to_fp ("templates/main/date/blockfooter.template", f_out);
 
 	//if no posts were added for this date, let's rewind to the previous position
 	//so we won't have an empty date header
