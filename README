@@ -1,5 +1,16 @@
 Blogging system written in C. Because C is my scripting language!
 
+by Jarosław Szpilewski
+jszpilewski at me dot com
 
 License (sourcedoe): GPL3 xD
 License (posts): Draconic BELONGS TO ME YOU MAY NOT USE IT License
+
+Usage
+-----
+
+For each date create a directory in posts. Put textfiles into that directory - one file per post. They will be thrown into your index.html in reverse alphanumeric order. 02.post -> 01.post -> 00.post \o/
+
+
+
+\m/ HAIL SATAN \m/
