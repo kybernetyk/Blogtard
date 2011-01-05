@@ -9,8 +9,9 @@ License (posts): Draconic BELONGS TO ME YOU MAY NOT USE IT License
 Usage
 -----
 
-For each date create a directory in posts. Put textfiles into that directory - one file per post. They will be thrown into your index.html in reverse alphanumeric order. 02.post -> 01.post -> 00.post \o/
-
+1) For each date create a directory in posts. Put textfiles into that directory - one file per post. They will be thrown into your index.html in reverse alphanumeric order. 02.post -> 01.post -> 00.post \o/
+2) run genblog/genblog (or a.out xD)
+3) upload out/index.html to your host or run that shit directly on your server or write some deployment script
 
 
 \m/ HAIL SATAN \m/
