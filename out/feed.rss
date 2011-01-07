@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+	<title>Don Vitos Blog</title>
+	<link>http://fettemama.org</link>
+	<description>THE BEST BLOG IN THE UNIVERSE WRITTEN IN C :]</description>
+	<language>il</language>
+	
+<item>
+<title>
+Damit ihr wisst, wen ihr demnaechst zu waehlen habt:<br/>
+<img src="http://htlr.org/vandurga-kheshtinejad">
+</title>
+<link>
+http://fettemama.org</link>
+</item>
+<item>
+<title>
+Wie es aussieht, will Intel uns alle versklaven. DRM in die CPU eingebaut: <A href="http://www.wired.com/gadgetlab/2011/01/intel-cpu/" target=bla>http://www.wired.com/gadgetlab/2011/01/intel-cpu/</a>. Wobei ich bei der Quelle halt vorsichtig waere - WIRED ist naemlich auch son Muellblog, das fuer 3 Besucher seine Grossmutter nach Saudi Arabien verkaufen wuerd.
+
+</title>
+<link>
+http://fettemama.org</link>
+</item>
+<item>
+<title>
+Ich werd sentimental; Ich will die <a href="http://en.wikipedia.org/wiki/Hanseatic_League" target=_new>Hanse</a> wiederhaben. Dann wuerd ich von Luebeck nach Novogrod schippern und schoen Handel treiben. Oder ich wuerd die Ostsee unsicher machen als Freibeuter.
+</title>
+<link>
+http://fettemama.org</link>
+</item>
+<item>
+<title>
+Neues aus der Kategorie "abolishing the x86 plague": Nvidia hat (laut engadget *hust*) eine Desktop ARM CPU/GPU combo angekuendigt. Ich als grosser ARM-Connoisseur und Freund finde das ja toll, aber wie wir alle wissen, ist Engadget (wie alle anderen Gadget-Blogs) halt nur ein Haufen stinkender Scheisse, der fuer 5 Besucher alles tun wuerde. Also naja - schoen waers mitm Arm.<br/>
+Quelle: <a href="http://www.engadget.com/2011/01/05/nvidia-announces-project-denver-arm-cpu-for-the-desktop/" target=_muell>http://www.engadget.com/2011/01/05/nvidia-announces-project-denver-arm-cpu-for-the-desktop/</a>
+</title>
+<link>
+http://fettemama.org</link>
+</item>
+<item>
+<title>
+Ui, der erste post am 6. Januar. Heute startet der Mac App Store! Ihr solltet alle Mac Produkte kaufen!
+</title>
+<link>
+http://fettemama.org</link>
+</item>
+<item>
+<title>
+Die Kindersterblichkeit auf Kuba ist im vergangenen Jahr auf einen historischen Tiefstand gesunken. Mit einer Rate von 4,5 auf 1000 Lebendgeburten, die das kubanische Gesundheitsministerium am Montag bekannt gab, blieb der Wert noch unter der bisherigen Rekordmarke von 2008 und liegt etwa gleichauf mit dem Durchschnitt der EU-Mitgliedsländer. Die USA liegen offiziellen Angaben zufolge bei 6,14, karibische Nachbarländer wie die Dominikanische Republik sogar bei 23,1 im ersten Lebensjahr gestorbenen Babys.<br/>
+			<A href="http://www.jungewelt.de/2011/01-04/060.php?sstr=kindersterblichkeit">http://www.jungewelt.de/2011/01-04/060.php?sstr=kindersterblichkeit</a>
+</title>
+<link>
+http://fettemama.org</link>
+</item>
+<item>
+<title>
+So, ich hab mal ein tolles neues Blogsystem geschrieben. Dieses Blog wird nun generiert mit C - weil ... C is my scripting language, bitches. Huldigt meinem Genius, ihr Unterwuermer!<br/>
+ALL HAIL DON VITO!
+</title>
+<link>
+http://fettemama.org</link>
+</item>
+</channel>
+</rss>
