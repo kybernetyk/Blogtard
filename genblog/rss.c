@@ -41,11 +41,11 @@ static void append_element_to_fp (const char *filename, FILE *f_out)
 
 	FILE *el = fopen_or_die (absname, "rt");
 	char title[32];
-	fread(title, 16, 1, el);
-	title[15] = '.';
-	title[16] = '.';
-	title[17] = '.';
-	title[18] = '\0';
+	fread(title, 28, 1, el);
+	title[27] = '.';
+	title[28] = '.';
+	title[29] = '.';
+	title[30] = '\0';
 	fclose (el);
 
 	append_str_to_fp (title, f_out);

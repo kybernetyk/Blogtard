@@ -2,17 +2,82 @@
 <rss version="2.0">
 
 <channel>
-	<title>Don Vitos Blog</title>
+	<title>fefemama</title>
 	<link>http://fettemama.org</link>
 	<description>THE BEST BLOG IN THE UNIVERSE WRITTEN IN C :]</description>
 	<language>de</language>
 	
 <item>
 <description><![CDATA[
+Drama! Opensource Fundamentalist (angestellt bei Nokia) kriegt die VLC app aus dem iPhone App Store geworfen. Wundert mich eigentlich nicht, denn was ich so von den ganzen FOSS mailing listen kenne, sind die meisten FOSSler "verkannte Genies" die niemandem was goennen. Ob sich wohl deshalb so viele Deutsche in der FOSS-Szene rumtreiben?<br/>
+<br/>Quelle: <a href="http://www.tuaw.com/2011/01/08/vlc-app-removed-from-app-store/" target=_new>http://www.tuaw.com/2011/01/08/vlc-app-removed-from-app-store/</a>
+<br/><br /><b>Nachtrag:</b> Der letzte Absatz im verlinkten A-Listen Blog ist sehr ruehrend. *schnief*
+]]></description>
+<title><![CDATA[
+Drama! Opensource Fundament...]]></title>
+<link>
+http://fettemama.org</link>
+<guid>
+http://fettemama.org/posts/2011-01-08/05.post</guid>
+</item>
+<item>
+<description><![CDATA[
+Wusstet ihr, was Software-Engineers bei Symantec bei der Arbeit tragen? Nein?<br/>
+<img src="http://htlr.org/lenado-bramowski"><br/>
+Ja, echt. Das ist ein Foto aus einem Artikel ueber Software Engineering: <a href="http://online.wsj.com/article/SB10001424052748704723104576062173458318658.html?mod=WSJ_hps_sections_careerjournal#articleTabs%3Darticle">http://online.wsj.com/article/SB10001424052748704723104576062173458318658.html?mod=WSJ_hps_sections_careerjournal#articleTabs%3Darticle</a>
+
+]]></description>
+<title><![CDATA[
+Wusstet ihr, was Software-E...]]></title>
+<link>
+http://fettemama.org</link>
+<guid>
+http://fettemama.org/posts/2011-01-08/04.post</guid>
+</item>
+<item>
+<description><![CDATA[
+Ok, ein total dummes Spiel von Facebook, das ich aber lustig fand:<br/>
+<blockquote>
+<ol>
+<li>Go to wikipedia and hit random. The first random wikipedia article you get is the name of your band.</li>
+<li>Go to quotationspage.com and hit random. The last four or five words of the very last quote of the page is the title of your first album.</li>
+<li>Go to flickr and click on “explore the last seven days”. Third picture no matter what ..................it is, will be your album cover.</li>
+<li>Use photoshop or similar (picnik.com is a free online photo editor) to put it all together.</li>
+<li>Post it with this text in the "caption" and TAG the friends you want to join in.</li>
+</ol>
+</blockquote>
+Bei mir kam das raus:<br/>
+<img src="http://htlr.org/haredewa-parynik">
+]]></description>
+<title><![CDATA[
+Ok, ein total dummes Spiel ...]]></title>
+<link>
+http://fettemama.org</link>
+<guid>
+http://fettemama.org/posts/2011-01-08/03.post</guid>
+</item>
+<item>
+<description><![CDATA[
+Hahaha, was besonders tolles! Da wird sich Prattel aber freuen:
+<blockquote>
+Haskell library for analysis and synthesis of Go code.
+</blockquote>
+Quelle: <a href="http://hackage.haskell.org/package/language-go" target=muell>http://hackage.haskell.org/package/language-go</a>
+]]></description>
+<title><![CDATA[
+Hahaha, was besonders tolle...]]></title>
+<link>
+http://fettemama.org</link>
+<guid>
+http://fettemama.org/posts/2011-01-08/02.post</guid>
+</item>
+<item>
+<description><![CDATA[
 bin besoffen lol
 ]]></description>
 <title><![CDATA[
-bin besoffen lo...]]></title>
+bin besoffen lol
+ders tolle...]]></title>
 <link>
 http://fettemama.org</link>
 <guid>
@@ -27,7 +92,7 @@ A member of parliament in Iceland who is also a former WikiLeaks volunteer says 
 Quelle: <a href="http://www.guardian.co.uk/media/2011/jan/08/us-twitter-hand-icelandic-wikileaks-messages" target=new">http://www.guardian.co.uk/media/2011/jan/08/us-twitter-hand-icelandic-wikileaks-messages</a>
 ]]></description>
 <title><![CDATA[
-Aus der Kategor...]]></title>
+Aus der Kategorie "Die Clou...]]></title>
 <link>
 http://fettemama.org</link>
 <guid>
@@ -38,7 +103,7 @@ http://fettemama.org/posts/2011-01-08/00.post</guid>
 Ich spiele gerade an einem RSS feed rum. Und es stellt sich mir die Frage, warum noch niemand den Erfinder von RSS aufm Scheiterhaufen verbrannt hat :[
 ]]></description>
 <title><![CDATA[
-Ich spiele gera...]]></title>
+Ich spiele gerade an einem ...]]></title>
 <link>
 http://fettemama.org</link>
 <guid>
@@ -50,7 +115,7 @@ Damit ihr wisst, wen ihr demnaechst zu waehlen habt:<br/>
 <img src="http://htlr.org/vandurga-kheshtinejad">
 ]]></description>
 <title><![CDATA[
-Damit ihr wisst...]]></title>
+Damit ihr wisst, wen ihr de...]]></title>
 <link>
 http://fettemama.org</link>
 <guid>
@@ -62,7 +127,7 @@ Wie es aussieht, will Intel uns alle versklaven. DRM in die CPU eingebaut: <A hr
 
 ]]></description>
 <title><![CDATA[
-Wie es aussieht...]]></title>
+Wie es aussieht, will Intel...]]></title>
 <link>
 http://fettemama.org</link>
 <guid>
@@ -73,7 +138,7 @@ http://fettemama.org/posts/2011-01-06/03.post</guid>
 Ich werd sentimental; Ich will die <a href="http://en.wikipedia.org/wiki/Hanseatic_League" target=_new>Hanse</a> wiederhaben. Dann wuerd ich von Luebeck nach Novogrod schippern und schoen Handel treiben. Oder ich wuerd die Ostsee unsicher machen als Freibeuter.
 ]]></description>
 <title><![CDATA[
-Ich werd sentim...]]></title>
+Ich werd sentimental; Ich w...]]></title>
 <link>
 http://fettemama.org</link>
 <guid>
@@ -85,7 +150,7 @@ Neues aus der Kategorie "abolishing the x86 plague": Nvidia hat (laut engadget *
 Quelle: <a href="http://www.engadget.com/2011/01/05/nvidia-announces-project-denver-arm-cpu-for-the-desktop/" target=_muell>http://www.engadget.com/2011/01/05/nvidia-announces-project-denver-arm-cpu-for-the-desktop/</a>
 ]]></description>
 <title><![CDATA[
-Neues aus der K...]]></title>
+Neues aus der Kategorie "ab...]]></title>
 <link>
 http://fettemama.org</link>
 <guid>
@@ -96,7 +161,7 @@ http://fettemama.org/posts/2011-01-06/01.post</guid>
 Ui, der erste post am 6. Januar. Heute startet der Mac App Store! Ihr solltet alle Mac Produkte kaufen!
 ]]></description>
 <title><![CDATA[
-Ui, der erste p...]]></title>
+Ui, der erste post am 6. Ja...]]></title>
 <link>
 http://fettemama.org</link>
 <guid>
@@ -108,7 +173,7 @@ Die Kindersterblichkeit auf Kuba ist im vergangenen Jahr auf einen historischen 
 			<A href="http://www.jungewelt.de/2011/01-04/060.php?sstr=kindersterblichkeit">http://www.jungewelt.de/2011/01-04/060.php?sstr=kindersterblichkeit</a>
 ]]></description>
 <title><![CDATA[
-Die Kindersterb...]]></title>
+Die Kindersterblichkeit auf...]]></title>
 <link>
 http://fettemama.org</link>
 <guid>
@@ -120,7 +185,7 @@ So, ich hab mal ein tolles neues Blogsystem geschrieben. Dieses Blog wird nun ge
 ALL HAIL DON VITO!
 ]]></description>
 <title><![CDATA[
-So, ich hab mal...]]></title>
+So, ich hab mal ein tolles ...]]></title>
 <link>
 http://fettemama.org</link>
 <guid>
