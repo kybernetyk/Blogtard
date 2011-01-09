@@ -2,9 +2,13 @@
 #include <stdlib.h>
 #include <dirent.h>
 #include <string.h>
+#include <sys/stat.h>
+#include <time.h>
 #include "utils.h"
 #include "index.h"
 #include "global.h"
+
+
 
 static const char *current_dir = ".";
 
@@ -12,18 +16,37 @@ static void append_post_to_fp (const char *filename, FILE *f_out)
 {
 	printf("\t\tappending post %s ...\n", filename);
 
+	/* generate filename */
+	size_t len = strlen(current_dir) + strlen("/") + strlen(filename) + 1;
+	char absname[len];
+	sprintf(absname,"%s/%s", current_dir, filename);
+	
+	/* append timestamp */
+	struct stat attribs;
+	stat (absname, &attribs);
+	time_t tstamp = attribs.st_mtimespec.tv_sec;
+
+	char s_time[255];
+	rfc822_from_tstamp (tstamp, s_time, 255);
+
+	append_str_to_fp ("<!-- timestamp: ", f_out);
+	char s[32];
+	sprintf(s,"%ld", tstamp);
+	append_str_to_fp (s, f_out);
+	append_str_to_fp ("-- > <!-- rfc 822: ", f_out);
+	append_str_to_fp (s_time, f_out);
+	append_str_to_fp (" -->\n", f_out);
+	
+	
 	/* append header */
 	append_file_to_fp ("templates/main/post/header.template", f_out);
 
 	/* append link */
 	append_str_to_fp ("[l] ", f_out);
 
-	/* append the post */
-	size_t len = strlen(current_dir) + strlen("/") + strlen(filename) + 1;
-	char absname[len];
-	sprintf(absname,"%s/%s", current_dir, filename);
+	/* append post */
 	append_file_to_fp (absname, f_out);
-	
+
 	/* append footer */
 	append_file_to_fp ("templates/main/post/footer.template", f_out);
 }

@@ -1,0 +1,2 @@
+Ich bin immer wieder erstaunt um wievieles einfacher (Date/Time + locale + string)-handling in C ist als in Python. :)
+<br>Uebrigens hat der RSS feed jetzt gescheite Timestamps. Ich hatte mir ja zuerst ein Vorbild an Fefes RSS genommen, aber das war mir dann doch etwas zu behindert im RSS reader mit den ungeordneten eintraegen.

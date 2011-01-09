@@ -9,6 +9,55 @@
 	
 <item>
 <description><![CDATA[
+Ich bin immer wieder erstaunt um wievieles einfacher (Date/Time + locale + string)-handling in C ist als in Python. :)
+<br>Uebrigens hat der RSS feed jetzt gescheite Timestamps. Ich hatte mir ja zuerst ein Vorbild an Fefes RSS genommen, aber das war mir dann doch etwas zu behindert im RSS reader mit den ungeordneten eintraegen.
+]]></description>
+<title><![CDATA[
+Ich bin immer wieder erstau...]]></title>
+<link>
+http://fettemama.org</link>
+<guid>
+http://fettemama.org/posts/2011-01-09/02.post</guid>
+<pubDate>
+Sun, 09 Jan 2011 11:16:32 +0100</pubDate>
+</item>
+<item>
+<description><![CDATA[
+Manchmal finde ich ja die Naivitaet der Amis herzerwaermend:
+<blockquote>
+I saw a book entitled "Die GNU Autotools" and I thought "My feelings exactly". Turns out the book was in German.
+</blockquote>
+<p>Quelle: <a href="http://twitter.com/#!/timmartin2/status/23365017839599616">http://twitter.com/#!/timmartin2/status/23365017839599616</a><br/>
+Ich kann btw. nicht verstehen, was alle gegen die Autotools haben. Man muss sich nur etwas einarbeiten und hat dann ein recht maechtiges Werkzeug zur hand. Das Buch gibts uebrigens <a href="http://www.amazon.de/Die-GNU-Autotools-Leitfaden-Softwaredistribution/dp/3936546487/ref=sr_1_1?s=books&ie=UTF8&qid=1294565063&sr=1-1" target=azn>hier</a>.
+</p>
+]]></description>
+<title><![CDATA[
+Manchmal finde ich ja die N...]]></title>
+<link>
+http://fettemama.org</link>
+<guid>
+http://fettemama.org/posts/2011-01-09/01.post</guid>
+<pubDate>
+Sun, 09 Jan 2011 10:26:13 +0100</pubDate>
+</item>
+<item>
+<description><![CDATA[
+So, das DOJ <A href="http://www.salon.com/news/opinion/glenn_greenwald/2011/01/07/twitter/subpoena.pdf" target=new>zwingt</a> Twitter dazu die Daten ein Paar Wikileaks-Supporter (u.a. auch den von <a href="http://rop.gonggri.jp/?p=442" target=rop>Rop</a>) rauszuruecken und verhaengt eine Gag-Order so dass Twitter darueber Stillschweigen bewahren soll. Nun setzt sich Twitter gerichtlich zur Wehr und erreicht, dass die Gag-Order aufgehoben wird. Soweit so gut.
+<p>Nun kommt das spannende: Anstatt mal darueber zu reflektieren ob zentrale, leicht von kriminellen 3rd Parties (Russenmafia, Regierungen) zugaengliche Datenstores (aka. Cloud) wirklich so eine gute idee sind, wird stattdessen auf den einschlaegigen Circlejerk-Seiten (hacker news, reddit) + diversen Blogs Twitter als Held gefeiert. Ok. Habt ihr noch was Kool Aid ueber oder is es scho alle?</p>
+<p>Don Vito raet: Lasst die Finger von der Cloud, wenn ihr nicht wollt, dass irgend ein mindergebildeter Polizeiangestellter euer Privatleben durchsucht und eure Privatfotos den Kollegen rumzeigt. Was? Das geht Euch nicht an. Well, dann passt besser auf, wem ihr demnaechst <a href="http://www.zdnet.com/blog/igeneration/us-subpoenas-wikileaks-tweets-and-why-this-could-affect-you/7610" target=new>bei Twitter followed ...</a></p> 
+<p>Nachtrag: Wenn die das bei Twitter versuchen, was meint ihr, wie wahrscheinlich es ist, dass sie Facebook in ruhe lassen. Und denkt mal drueber nach ob ihr Herrn Zuckerberg zutraut sich gegen so eine Gag-Order zur Wehr zu setzen oder ob er lieber den guten Jungen spielt?</p>
+]]></description>
+<title><![CDATA[
+So, das DOJ <A href="http:/...]]></title>
+<link>
+http://fettemama.org</link>
+<guid>
+http://fettemama.org/posts/2011-01-09/00.post</guid>
+<pubDate>
+Sun, 09 Jan 2011 09:59:10 +0100</pubDate>
+</item>
+<item>
+<description><![CDATA[
 Und noch einer aus der Kategorie "Warum Cloud geil ist":<br />
 <blockquote>
  "The police need to present you with a search warrant to get your data from you; but if they are stored in a company's server, the police can get it without showing you anything. They may not even have to give the company a search warrant."
@@ -22,6 +71,8 @@ Und noch einer aus der Kate...]]></title>
 http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/07.post</guid>
+<pubDate>
+Sun, 09 Jan 2011 09:40:35 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -35,6 +86,8 @@ Fuer alle Arduino-Fans/Bege...]]></title>
 http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/06.post</guid>
+<pubDate>
+Sun, 09 Jan 2011 09:40:35 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -48,6 +101,8 @@ Drama! Opensource Fundament...]]></title>
 http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/05.post</guid>
+<pubDate>
+Sat, 08 Jan 2011 14:07:30 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -62,6 +117,8 @@ Wusstet ihr, was Software-E...]]></title>
 http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/04.post</guid>
+<pubDate>
+Sat, 08 Jan 2011 12:05:43 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -84,6 +141,8 @@ Ok, ein total dummes Spiel ...]]></title>
 http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/03.post</guid>
+<pubDate>
+Sat, 08 Jan 2011 10:22:02 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -99,6 +158,8 @@ Hahaha, was besonders tolle...]]></title>
 http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/02.post</guid>
+<pubDate>
+Sat, 08 Jan 2011 10:06:34 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -111,6 +172,8 @@ ders tolle...]]></title>
 http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/01.post</guid>
+<pubDate>
+Sat, 08 Jan 2011 10:02:33 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -126,6 +189,8 @@ Aus der Kategorie "Die Clou...]]></title>
 http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/00.post</guid>
+<pubDate>
+Sat, 08 Jan 2011 09:58:57 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -137,6 +202,8 @@ Ich spiele gerade an einem ...]]></title>
 http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-07/01.post</guid>
+<pubDate>
+Fri, 07 Jan 2011 19:43:43 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -149,6 +216,8 @@ Damit ihr wisst, wen ihr de...]]></title>
 http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-07/00.post</guid>
+<pubDate>
+Fri, 07 Jan 2011 14:16:26 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -161,6 +230,8 @@ Wie es aussieht, will Intel...]]></title>
 http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-06/03.post</guid>
+<pubDate>
+Thu, 06 Jan 2011 15:16:31 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -172,6 +243,8 @@ Ich werd sentimental; Ich w...]]></title>
 http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-06/02.post</guid>
+<pubDate>
+Thu, 06 Jan 2011 13:09:21 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -184,6 +257,8 @@ Neues aus der Kategorie "ab...]]></title>
 http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-06/01.post</guid>
+<pubDate>
+Thu, 06 Jan 2011 13:06:30 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -195,6 +270,8 @@ Ui, der erste post am 6. Ja...]]></title>
 http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-06/00.post</guid>
+<pubDate>
+Thu, 06 Jan 2011 00:15:28 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -207,6 +284,8 @@ Die Kindersterblichkeit auf...]]></title>
 http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-05/01.post</guid>
+<pubDate>
+Wed, 05 Jan 2011 23:30:05 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -219,6 +298,8 @@ So, ich hab mal ein tolles ...]]></title>
 http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-05/00.post</guid>
+<pubDate>
+Thu, 06 Jan 2011 00:04:27 +0100</pubDate>
 </item>
 </channel>
 </rss>

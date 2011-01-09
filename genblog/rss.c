@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <dirent.h>
 #include <string.h>
+#include <sys/stat.h>
 
 #include "utils.h"
 #include "rss.h"
@@ -67,6 +68,19 @@ static void append_element_to_fp (const char *filename, FILE *f_out)
 	append_str_to_fp ("http://fettemama.org/", f_out);
 	append_str_to_fp (absname, f_out);
 	append_file_to_fp ("templates/rss/element/guid_footer.template", f_out);
+
+	/* append date */
+	append_file_to_fp ("templates/rss/element/date_header.template", f_out);
+
+	struct stat attribs;
+	stat (absname, &attribs);
+
+	char s_time[255];
+	rfc822_from_tstamp (attribs.st_mtimespec.tv_sec, s_time, 255);
+
+	append_str_to_fp (s_time, f_out);
+
+	append_file_to_fp ("templates/rss/element/date_footer.template", f_out);
 
 	/* append footer */
 	append_file_to_fp ("templates/rss/element/footer.template", f_out);

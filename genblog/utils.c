@@ -2,11 +2,21 @@
 #include <stdlib.h>
 #include <dirent.h>
 #include <string.h>
-
+#include <time.h>
 
 #include "utils.h"
 
 
+int rfc822_from_tstamp (time_t timestamp, char *out_buffer, size_t bufsize)
+{
+	struct tm *timeinfo;
+	timeinfo = localtime (&timestamp);
+	mktime (timeinfo);
+	
+	size_t l = strftime (out_buffer, bufsize-1, "%a, %d %b %Y %H:%M:%S %z", timeinfo);
+
+	return l;
+}
 
 FILE *fopen_or_die (const char *fname, const char *mode)
 {
