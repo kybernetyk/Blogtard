@@ -9,6 +9,43 @@
 	
 <item>
 <description><![CDATA[
+Wow, ich wusste gar nicht, dass Vi jetzt _der_ Hipster-Texteditor of choice ist. Scheint aber so: <a href="http://blogs.perl.org/users/su-shee/2011/01/and-suddenly-youre-hip.html" target=new>And suddenly you're hip.</a> Ist schon seltsam, wie die Kids heute so altes Zeug wiederentdecken und denken, es sei der letzte Schrei. Faengt ja an bei funktioneller Programmierung (rly ... wtf is wrong with you?) und hoert bei weitem nicht bei Vi auf.
+<p>Und ja, fuer mich heisst das Ding immernoch Vi und Vim ist das neue Ding, das man sich optional installieren kann, wenn man Syntax coloring will.</p>
+]]></description>
+<title><![CDATA[
+Wow, ich wusste gar nicht, ...]]></title>
+<link>
+http://fettemama.org</link>
+<guid>
+http://fettemama.org/posts/2011-01-09/06.post</guid>
+<pubDate>
+Sun, 09 Jan 2011 17:19:52 +0100</pubDate>
+</item>
+<item>
+<description><![CDATA[
+Der TIOBE-Index fuer 2010 <a href="http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html?page=results_2010" target=new>ist raus</a> und wie man schoen sehen kann, ist C immernoch gut dabei. Python holt auf und Ruby steht still - vmtl weil der Ober-Ruby-Hipster weinend das Handtuch geworfen hat (Stichwort "Rails is a Ghetto") und zu Python gewechselt ist. Ich frage mich ja, welche Sprache naechstes Jahr "hip" sein wird. Ich tippe ja auf Haskell oder so einen Unfug.
+<p>
+Weiter faellt auf wie sehr Objective-C aufholt. Vor einigen Jahren irgendwo gaaaanz weit unten in den Top100 ist sie nun in die Top10 vorgerueckt. Gute Dinge setzen sich eben durch. (Bis auf Java. Und C#. Baergs.)
+</p>
+<p>
+Javascript fliegt raus aus der Top 10. Nanu, liebe Webdeveloper-Hipsters ... keine lust mehr Conway's life, etc. in JS umzusetzen um uns allen zu zeigen wie 'l33t' ihr seid (und wie sehr turing complete die Sprache ist)?
+</p>
+<p>
+Eine gute Sache ist das Sterben von PHP. Hoffentlich fliegt der Muellhaufen in ein paar Jahren komplett aus der Wertung.</p>
+<p>Achja, WTF: Assembly :)</p>
+<p><b>Nachtrag:</b> Wenn man weiter runtercrollt, kommt man zum Paradigm-Index. Schoen zu sehen, wie die breite Masse der Dummenwickler Lichtjahre hinterherhinkt. Object Orientation is jetzt Top-Paradigm ... ausgerechnet jetzt, wo Concurrency zunehmends wichtiger wird, setzt die breite Mass auf das denkbar ungeeignetste Paradigma. Hach, das wird lustig, wenn aus Multicore Manycore wird ... wird das ein Geweine geben. Die IT ist eben einfach ein dummer Lemminghaufen ...</p> 
+]]></description>
+<title><![CDATA[
+Der TIOBE-Index fuer 2010 <...]]></title>
+<link>
+http://fettemama.org</link>
+<guid>
+http://fettemama.org/posts/2011-01-09/05.post</guid>
+<pubDate>
+Sun, 09 Jan 2011 16:58:05 +0100</pubDate>
+</item>
+<item>
+<description><![CDATA[
 Mein Freund Felix <a href="http://blog.fefe.de/?ts=b3d6b891" target=new>freut sich</a> dass die USA nun <a href="http://www.theregister.co.uk/2011/01/07/open_source_crypto_curbs/" target=new>Opensource Crypto-Exporte in Embargolaender zulassen</a> und Sourceforge nun Iraner usw. nicht mehr abweisen muss. Mein Freund Daniel merkt daraufhin an, die USA haetten wohl alles geknackt oder ueberall Backdoors eingebaut. *popcorn hol*
 ]]></description>
 <title><![CDATA[
@@ -18,7 +55,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-09/04.post</guid>
 <pubDate>
-Sun, 09 Jan 2011 14:03:53 +0100</pubDate>
+Sun, 09 Jan 2011 16:43:29 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -31,7 +68,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-09/03.post</guid>
 <pubDate>
-Sun, 09 Jan 2011 11:32:38 +0100</pubDate>
+Sun, 09 Jan 2011 16:43:29 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -45,7 +82,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-09/02.post</guid>
 <pubDate>
-Sun, 09 Jan 2011 11:16:32 +0100</pubDate>
+Sun, 09 Jan 2011 16:43:29 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -64,7 +101,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-09/01.post</guid>
 <pubDate>
-Sun, 09 Jan 2011 10:26:13 +0100</pubDate>
+Sun, 09 Jan 2011 16:43:29 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -80,7 +117,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-09/00.post</guid>
 <pubDate>
-Sun, 09 Jan 2011 09:59:10 +0100</pubDate>
+Sun, 09 Jan 2011 16:43:29 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -98,7 +135,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/07.post</guid>
 <pubDate>
-Sun, 09 Jan 2011 09:40:35 +0100</pubDate>
+Sat, 08 Jan 2011 19:21:48 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -113,7 +150,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/06.post</guid>
 <pubDate>
-Sun, 09 Jan 2011 09:40:35 +0100</pubDate>
+Sat, 08 Jan 2011 18:31:51 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -128,7 +165,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/05.post</guid>
 <pubDate>
-Sat, 08 Jan 2011 14:07:30 +0100</pubDate>
+Sat, 08 Jan 2011 18:29:54 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -144,7 +181,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/04.post</guid>
 <pubDate>
-Sat, 08 Jan 2011 12:05:43 +0100</pubDate>
+Sat, 08 Jan 2011 18:29:54 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -168,7 +205,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/03.post</guid>
 <pubDate>
-Sat, 08 Jan 2011 10:22:02 +0100</pubDate>
+Sat, 08 Jan 2011 18:29:54 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -185,7 +222,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/02.post</guid>
 <pubDate>
-Sat, 08 Jan 2011 10:06:34 +0100</pubDate>
+Sat, 08 Jan 2011 18:29:54 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -199,7 +236,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/01.post</guid>
 <pubDate>
-Sat, 08 Jan 2011 10:02:33 +0100</pubDate>
+Sat, 08 Jan 2011 18:29:54 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -216,7 +253,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/00.post</guid>
 <pubDate>
-Sat, 08 Jan 2011 09:58:57 +0100</pubDate>
+Sat, 08 Jan 2011 08:56:01 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -229,7 +266,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-07/01.post</guid>
 <pubDate>
-Fri, 07 Jan 2011 19:43:43 +0100</pubDate>
+Sat, 08 Jan 2011 08:54:01 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -243,7 +280,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-07/00.post</guid>
 <pubDate>
-Fri, 07 Jan 2011 14:16:26 +0100</pubDate>
+Sat, 08 Jan 2011 08:54:01 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -257,7 +294,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-06/03.post</guid>
 <pubDate>
-Thu, 06 Jan 2011 15:16:31 +0100</pubDate>
+Sat, 08 Jan 2011 08:54:01 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -270,7 +307,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-06/02.post</guid>
 <pubDate>
-Thu, 06 Jan 2011 13:09:21 +0100</pubDate>
+Sat, 08 Jan 2011 08:54:01 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -284,7 +321,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-06/01.post</guid>
 <pubDate>
-Thu, 06 Jan 2011 13:06:30 +0100</pubDate>
+Thu, 06 Jan 2011 00:40:17 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -297,7 +334,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-06/00.post</guid>
 <pubDate>
-Thu, 06 Jan 2011 00:15:28 +0100</pubDate>
+Thu, 06 Jan 2011 00:34:39 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -311,7 +348,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-05/01.post</guid>
 <pubDate>
-Wed, 05 Jan 2011 23:30:05 +0100</pubDate>
+Thu, 06 Jan 2011 00:34:39 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -325,7 +362,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-05/00.post</guid>
 <pubDate>
-Thu, 06 Jan 2011 00:04:27 +0100</pubDate>
+Thu, 06 Jan 2011 00:34:39 +0100</pubDate>
 </item>
 </channel>
 </rss>

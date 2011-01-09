@@ -1,0 +1,11 @@
+Der TIOBE-Index fuer 2010 <a href="http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html?page=results_2010" target=new>ist raus</a> und wie man schoen sehen kann, ist C immernoch gut dabei. Python holt auf und Ruby steht still - vmtl weil der Ober-Ruby-Hipster weinend das Handtuch geworfen hat (Stichwort "Rails is a Ghetto") und zu Python gewechselt ist. Ich frage mich ja, welche Sprache naechstes Jahr "hip" sein wird. Ich tippe ja auf Haskell oder so einen Unfug.
+<p>
+Weiter faellt auf wie sehr Objective-C aufholt. Vor einigen Jahren irgendwo gaaaanz weit unten in den Top100 ist sie nun in die Top10 vorgerueckt. Gute Dinge setzen sich eben durch. (Bis auf Java. Und C#. Baergs.)
+</p>
+<p>
+Javascript fliegt raus aus der Top 10. Nanu, liebe Webdeveloper-Hipsters ... keine lust mehr Conway's life, etc. in JS umzusetzen um uns allen zu zeigen wie 'l33t' ihr seid (und wie sehr turing complete die Sprache ist)?
+</p>
+<p>
+Eine gute Sache ist das Sterben von PHP. Hoffentlich fliegt der Muellhaufen in ein paar Jahren komplett aus der Wertung.</p>
+<p>Achja, WTF: Assembly :)</p>
+<p><b>Nachtrag:</b> Wenn man weiter runtercrollt, kommt man zum Paradigm-Index. Schoen zu sehen, wie die breite Masse der Dummenwickler Lichtjahre hinterherhinkt. Object Orientation is jetzt Top-Paradigm ... ausgerechnet jetzt, wo Concurrency zunehmends wichtiger wird, setzt die breite Mass auf das denkbar ungeeignetste Paradigma. Hach, das wird lustig, wenn aus Multicore Manycore wird ... wird das ein Geweine geben. Die IT ist eben einfach ein dummer Lemminghaufen ...</p> 
