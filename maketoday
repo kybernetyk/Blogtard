@@ -1,0 +1,3 @@
+#!/bin/sh
+
+rm today; mkdir posts/$(date +%Y-%m-%d); ln -s posts/$(date +%Y-%m-%d) today
