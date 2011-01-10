@@ -1,3 +1,5 @@
 #!/bin/sh
+rm today; mkdir posts/$(date +%Y-%m-%d); ln -s posts/$(date +%Y-%m-%d) today
+
 ./genblog/genblog
-scp -P 2222 out/index.html out/rss.xml dvfm@fettemama.org:www
+scp -P 2222 out/* dvfm@fettemama.org:www

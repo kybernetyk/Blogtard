@@ -9,6 +9,94 @@
 	
 <item>
 <description><![CDATA[
+Fuer alle, die die Hoffnung auf ZFS im OS X nicht aufgegeben haben, gibts jetzt einen klitzekleinen Lichtschimmer:<br/>
+<a href="http://code.google.com/p/maczfs/" target=_new>http://code.google.com/p/maczfs/</a>
+]]></description>
+<title><![CDATA[
+Fuer alle, die die Hoffnung...]]></title>
+<link>
+http://fettemama.org</link>
+<guid>
+http://fettemama.org/posts/2011-01-10/02.post</guid>
+<pubDate>
+Mon, 10 Jan 2011 11:29:02 +0100</pubDate>
+</item>
+<item>
+<description><![CDATA[
+5 Milliarden Jahre Evolution, oder wie mein Freund Simon immer zu sagen pflegt "5000 Jahre Kreation":<br/>
+<img src="http://htlr.org/hotfingers-chicagoblackhawks">
+
+]]></description>
+<title><![CDATA[
+5 Milliarden Jahre Evolutio...]]></title>
+<link>
+http://fettemama.org</link>
+<guid>
+http://fettemama.org/posts/2011-01-10/01.post</guid>
+<pubDate>
+Mon, 10 Jan 2011 11:21:30 +0100</pubDate>
+</item>
+<item>
+<description><![CDATA[
+Vim vs. Emacs geht weiter. Hier ein Grund warum man von Emacs fernbleiben sollte:<br/>
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/D1sXuHnf_lo?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/D1sXuHnf_lo?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<br/>
+Ok, fuer einige Zeitgenossen duerfte das ein Grund _fuer_ Emacs sein ...
+]]></description>
+<title><![CDATA[
+Vim vs. Emacs geht weiter. ...]]></title>
+<link>
+http://fettemama.org</link>
+<guid>
+http://fettemama.org/posts/2011-01-10/00.post</guid>
+<pubDate>
+Mon, 10 Jan 2011 11:01:55 +0100</pubDate>
+</item>
+<item>
+<description><![CDATA[
+In Suedafrika sind rund 400 hochmoderne Ampeln aufgebrochen worden. Die Ampeln melden ueber GSM, wenn zB. das Leuchtmittel defekt ist, etc. und beinhalten dafuer neben einem GSM-Modem natuerlich auch eine SIM-Karte. Nun dachte sich ein kriminelles Genie, man koennte die Dinger ja aufbrechen und sich die SIM-Karten aneignen um kostenlos zu telefonieren. Ergebnis: 400 aufgebrochene Hi-Tech-Ampelanlagen und tausende US-Dollar hohe Telefonrechnungen fuer die Strassenbehoerde.<br>
+<blockquote>
+"One card had a bill of 30,000 rand ($4,500; £2,900) and we are talking about no less than 150 Sim card bills. Whichever way we look at it we are talking about a lot of money," said Mr Makhubela.</blockquote>
+Quelle: <a href="http://www.bbc.co.uk/news/world-africa-12135841" target=_new>http://www.bbc.co.uk/news/world-africa-12135841</a>
+]]></description>
+<title><![CDATA[
+In Suedafrika sind rund 400...]]></title>
+<link>
+http://fettemama.org</link>
+<guid>
+http://fettemama.org/posts/2011-01-09/09.post</guid>
+<pubDate>
+Sun, 09 Jan 2011 23:18:52 +0100</pubDate>
+</item>
+<item>
+<description><![CDATA[
+Hmm, ich hab heute einige Zeit damit verbracht Flash unter 64bit Debian zum laufen zu bringen. Und ich habs nicht geschafft. Meine Freunde im IRC meinten dann, ich muesste mit IA32 libs laden und haben angemerkt, Debian sei generell doof.
+<p>Tjo, was tu ich mir jetzt fuer ein Linux aufs Macbook? Ubuntu wuerde ich am liebsten vermeiden, da es mich an Bloatware von neuen Acer-Notebooks erinnert. Wo halt in jeder Ecke 30000 Symbole blinken und tuten. Ich denke, ich werde mal Arch probieren.</p>
+]]></description>
+<title><![CDATA[
+Hmm, ich hab heute einige Z...]]></title>
+<link>
+http://fettemama.org</link>
+<guid>
+http://fettemama.org/posts/2011-01-09/08.post</guid>
+<pubDate>
+Sun, 09 Jan 2011 21:29:47 +0100</pubDate>
+</item>
+<item>
+<description><![CDATA[
+Change we can believe in: <a href="http://www.engadget.com/2011/01/09/obama-administration-moves-forward-with-unique-internet-id-for-a/" target=_new>Obamas Regierung will jedem US-Buerger eine eindeutige Internet-ID verpassen</a>.
+]]></description>
+<title><![CDATA[
+Change we can believe in: <...]]></title>
+<link>
+http://fettemama.org</link>
+<guid>
+http://fettemama.org/posts/2011-01-09/07.post</guid>
+<pubDate>
+Sun, 09 Jan 2011 21:02:01 +0100</pubDate>
+</item>
+<item>
+<description><![CDATA[
 Wow, ich wusste gar nicht, dass Vi jetzt _der_ Hipster-Texteditor of choice ist. Scheint aber so: <a href="http://blogs.perl.org/users/su-shee/2011/01/and-suddenly-youre-hip.html" target=new>And suddenly you're hip.</a> Ist schon seltsam, wie die Kids heute so altes Zeug wiederentdecken und denken, es sei der letzte Schrei. Faengt ja an bei funktioneller Programmierung (rly ... wtf is wrong with you?) und hoert bei weitem nicht bei Vi auf.
 <p>Und ja, fuer mich heisst das Ding immernoch Vi und Vim ist das neue Ding, das man sich optional installieren kann, wenn man Syntax coloring will.</p>
 ]]></description>
@@ -19,7 +107,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-09/06.post</guid>
 <pubDate>
-Sun, 09 Jan 2011 17:19:52 +0100</pubDate>
+Sun, 09 Jan 2011 21:00:51 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -42,7 +130,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-09/05.post</guid>
 <pubDate>
-Sun, 09 Jan 2011 16:58:05 +0100</pubDate>
+Sun, 09 Jan 2011 21:00:51 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -55,7 +143,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-09/04.post</guid>
 <pubDate>
-Sun, 09 Jan 2011 16:43:29 +0100</pubDate>
+Sun, 09 Jan 2011 14:03:53 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -68,7 +156,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-09/03.post</guid>
 <pubDate>
-Sun, 09 Jan 2011 16:43:29 +0100</pubDate>
+Sun, 09 Jan 2011 11:32:38 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -82,7 +170,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-09/02.post</guid>
 <pubDate>
-Sun, 09 Jan 2011 16:43:29 +0100</pubDate>
+Sun, 09 Jan 2011 11:16:32 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -101,7 +189,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-09/01.post</guid>
 <pubDate>
-Sun, 09 Jan 2011 16:43:29 +0100</pubDate>
+Sun, 09 Jan 2011 10:26:13 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -117,7 +205,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-09/00.post</guid>
 <pubDate>
-Sun, 09 Jan 2011 16:43:29 +0100</pubDate>
+Sun, 09 Jan 2011 09:59:10 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -135,7 +223,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/07.post</guid>
 <pubDate>
-Sat, 08 Jan 2011 19:21:48 +0100</pubDate>
+Sun, 09 Jan 2011 09:40:35 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -150,7 +238,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/06.post</guid>
 <pubDate>
-Sat, 08 Jan 2011 18:31:51 +0100</pubDate>
+Sun, 09 Jan 2011 09:40:35 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -165,7 +253,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/05.post</guid>
 <pubDate>
-Sat, 08 Jan 2011 18:29:54 +0100</pubDate>
+Sat, 08 Jan 2011 14:07:30 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -181,7 +269,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/04.post</guid>
 <pubDate>
-Sat, 08 Jan 2011 18:29:54 +0100</pubDate>
+Sat, 08 Jan 2011 12:05:43 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -205,7 +293,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/03.post</guid>
 <pubDate>
-Sat, 08 Jan 2011 18:29:54 +0100</pubDate>
+Sat, 08 Jan 2011 10:22:02 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -222,7 +310,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/02.post</guid>
 <pubDate>
-Sat, 08 Jan 2011 18:29:54 +0100</pubDate>
+Sat, 08 Jan 2011 10:06:34 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -236,7 +324,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/01.post</guid>
 <pubDate>
-Sat, 08 Jan 2011 18:29:54 +0100</pubDate>
+Sat, 08 Jan 2011 10:02:33 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -253,7 +341,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-08/00.post</guid>
 <pubDate>
-Sat, 08 Jan 2011 08:56:01 +0100</pubDate>
+Sat, 08 Jan 2011 09:58:57 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -266,7 +354,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-07/01.post</guid>
 <pubDate>
-Sat, 08 Jan 2011 08:54:01 +0100</pubDate>
+Fri, 07 Jan 2011 19:43:43 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -280,7 +368,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-07/00.post</guid>
 <pubDate>
-Sat, 08 Jan 2011 08:54:01 +0100</pubDate>
+Fri, 07 Jan 2011 14:16:26 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -294,7 +382,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-06/03.post</guid>
 <pubDate>
-Sat, 08 Jan 2011 08:54:01 +0100</pubDate>
+Thu, 06 Jan 2011 15:16:31 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -307,7 +395,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-06/02.post</guid>
 <pubDate>
-Sat, 08 Jan 2011 08:54:01 +0100</pubDate>
+Thu, 06 Jan 2011 13:09:21 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -321,7 +409,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-06/01.post</guid>
 <pubDate>
-Thu, 06 Jan 2011 00:40:17 +0100</pubDate>
+Thu, 06 Jan 2011 13:06:30 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -334,7 +422,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-06/00.post</guid>
 <pubDate>
-Thu, 06 Jan 2011 00:34:39 +0100</pubDate>
+Thu, 06 Jan 2011 00:15:28 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -348,7 +436,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-05/01.post</guid>
 <pubDate>
-Thu, 06 Jan 2011 00:34:39 +0100</pubDate>
+Wed, 05 Jan 2011 23:30:05 +0100</pubDate>
 </item>
 <item>
 <description><![CDATA[
@@ -362,7 +450,7 @@ http://fettemama.org</link>
 <guid>
 http://fettemama.org/posts/2011-01-05/00.post</guid>
 <pubDate>
-Thu, 06 Jan 2011 00:34:39 +0100</pubDate>
+Thu, 06 Jan 2011 00:04:27 +0100</pubDate>
 </item>
 </channel>
 </rss>
