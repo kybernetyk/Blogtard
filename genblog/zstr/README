@@ -6,3 +6,16 @@ A little lib for making string handling more comfortable
 (c) Jaroslaw Szpilewski http://nntp.pl
 
 GPL V2
+
+
+zstr.c/h
+--------
+The base zstr data structure. Used by the rest of the library.
+
+zstrlist.c/h
+------------
+A data structure that holds a list of zstrs.
+
+zstr_split.c/h
+--------------
+functions to split a C string into a list of zstrs.
