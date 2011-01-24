@@ -65,17 +65,14 @@ struct zstrlist *zstr_split (const char *str, const char *delimiter)
 	}
 	int element_count = i;
 
-	struct zstrlist *ret = (struct zstrlist*)malloc(sizeof(struct zstrlist));
-	ret->elements = (struct zstr **)malloc(sizeof(struct zstr *) * element_count);
-	ret->count = element_count;
-
+	struct zstrlist *ret = zstrlist_new(element_count/3);
 	char *word;
 	for (int i = 0; i < element_count; i++)
 	{
 		word = substrs[i];
-		ret->elements[i] = zstr_new(strlen(word)+1);
-		sprintf(ret->elements[i]->p_str, "%s", word);
-		ret->elements[i]->len = strlen(word);
+		struct zstr *z = zstr_new(strlen(word)+1);
+		sprintf(z->cstr, "%s", word);
+		zstrlist_append(ret, z);
 	}
 	
 	free(tmp);
@@ -97,18 +94,16 @@ struct zstrlist *zstr_split_c (const char *str, const char *delimiter)
 	};
 	free(haystack);
 
-	struct zstrlist *ret = (struct zstrlist*)malloc(sizeof(struct zstrlist));
-	ret->elements = (struct zstr **)malloc(sizeof(struct zstr *) * wordcount);
-	ret->count = wordcount;
-
+	struct zstrlist *ret = zstrlist_new(wordcount);
 	haystack = strdup(str);
 	word = strtok_r(haystack, delimiter, &save_ptr);
 	size_t i = 0;
 	while (word)
 	{
-		ret->elements[i] = zstr_new(strlen(word)+1);
-		sprintf(ret->elements[i]->p_str, "%s", word);
-		ret->elements[i]->len = strlen(word);
+		struct zstr *z = zstr_new(strlen(word)+1);
+		sprintf(z->cstr, "%s", word);
+		zstrlist_append(ret, z);
+
 		word = strtok_r(NULL, delimiter, &save_ptr);
 		i++;
 	}
