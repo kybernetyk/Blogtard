@@ -1,7 +1,7 @@
 CC=clang
 LIBS=-lcurl
 CFLAGS=-c -Wall
-ZSTR=zstr/
+EXTS=zstr/*.c
 
 EXECNAME=genblog
 
@@ -13,7 +13,7 @@ genblog: cfiles
 	$(CC) $(LIBS) *.o -o $(EXECNAME)
 
 cfiles:
-	$(CC) $(CFLAGS) $(ZSTR)/*.c *.c
+	$(CC) $(CFLAGS) $(EXTS) *.c
 
 clean:
 	rm -rf *.o $(EXECNAME)
