@@ -1,0 +1,10 @@
+Microsoft, Fuck Yeah:
+<blockquote>
+<p>If you want your game to work in Germany BE VERY CAREFUL you never call float.Parse(string), you should call float.Parse(string, CultureInfo.InvariantCulture).
+</p>
+<p>Otherwise your parsing will screw up (in Germany they use ',' apparently) so something like 123.123 will become 123123.0.
+</p>
+<p>Microsoft QA will not pick up on this, the app will be pulled from the german store soon after its published.
+</p>
+</blockquote>
+

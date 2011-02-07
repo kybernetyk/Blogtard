@@ -3,23 +3,9 @@
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 		<link rel="alternate" type="application/rss+xml" title="RSS FEED AFFE" href="/rss.xml">
 		<title>fefemama.org - THE BEST BLOG IN THE UNIVERSE WRITTEN IN C :]</title>
-	<script type="text/javascript">
-	/* <![CDATA[ */
-	    (function() {
-				        var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
-								        s.type = 'text/javascript';
-												        s.async = true;
-																        s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
-																				        t.parentNode.insertBefore(s, t);
-																								    })();
-																										/* ]]> */
-																										</script>
 	</head>
 	<body>
 		<h1>This is my new blog!</h1>
 		<p>
 			<b>And it's written in C because C IS MY SCRIPTING LANGUAGE!!</b>
-			<br>
-			<a class="FlattrButton" style="display:none;"
-			href="http://fettemama.org"></a>
 		</p>
