@@ -1,0 +1,7 @@
+Sieg! Sollte allen Schmarotzern und Blutsaugern eine Lehre sein:
+<blockquote>
+Ein Gericht hat den Anbieter von WISO Mein Büro 2009 wegen Verstößen gegen die GNU Lesser General Public License zur Zahlung von Schadensersatz verurteilt. Es bestätigte ausdrücklich die Geltung der GPL.</blockquote>
+(<a href="http://www.golem.de/1102/81358.html" target=new>via</a>)
+<p>Das ist auch der Grund, warum ich meinen Kram ausschliesslich unter GPL opensource. BSD und co. moegen ja evtl "freier" sein, aber es ist mir nicht bekannt, dass es sowas wie GPL-Violations.org fuer BSD gaebe. Darum: Opensource ausschliesslich als GPL. Ja, Libs auch als GPL - nicht als LGPL. Wer proprietaere Software schreiben will, kann es gerne tun, aber soll nicht erwarten, dass ich Arbeit fuer ihn mache.
+</p>
+<p>Erinnert mich an einen Spezialerkerten, der mir eine erbose Mail geschrieben hatte, wie ich es wagen koennte eine Library unter GPL zu releasen. Hab ihm schnell die Meinung gesagt und ein Relicensing fuer $10k angeboten - auf was er aber nicht eingegangen ist. Das besaettigt meine Meinung wieder mal, dass diese ganzen Closed-Source-Spacken nur Aasgeier sind, die nix draufhaben und ohne Gegenleistung von anderer Leute Arbeit schmarotzen wollen.</p>

@@ -1,0 +1,13 @@
+Nachtrag zum "Anon im Besitz von Stuxnet"-Beitrag. Schreinbar deuten die Kids "Besitz" so: Sie haben sich irgendwo ne Stuxnet-Binary besorgt (man munkelt von einer Al-Quaida Fanseite) und sie durch nen Decompiler (fuer mich siehts nach Hexrays aus) gejagt und das Dekompilat <a href="https://github.com/Laurelai/decompile-dump" target=new>bei Github hochgeladen</a>. Naja, wer von Euch mal so ein Dekompilat gesehen hat, wird mir wohl eindeutig zustimmen, dass ein Disassembly lesbarer ist. Hexrays ist imho nur ein Beiprodukt zu IDA Pro, das man ahnungslosen Kunden andrehen kann. Knapp $2k kostet das Ding iirc und lesbar sind die Dekompilate nicht wirklich (schauts euch den Code auf Github an). Und da bei den meisten Securityklitschen nicht die Leute mit Ahnung die Einkaeufe taetigen, landet mal eben so eine Hexrayslizenz neben IDA Pro im Einkaufswagen. (Btw. IDA Pro ist von der Funktionalitaet her ja endsgeil - aber das Interface ... uff ... und dann auch noch Windows-Only. Kann da keiner mal einen FOSS Klon von machen?)
+<p>
+Zum Dekompilat selber: Ich mags, wie der Decompiler den Stackframe in C baut bevor es eine Funktion aufruft:
+<pre>
+local1 = local8;
+local0 = local9;
+*(int*)(local0 - 4) = 0x100032b8;
+*(int*)(local0 - 8) = local11;
+lstrcmpiA();
+</pre>
+</p>
+Also bitte Anon, das mal eine schwache Leistung ...
+<p><b>Nachtrag</b>: Ich sollte lesen lernen. Ist wohl nicht der Hexrays-Decompiler sondern Boomerang. Wobei Hexrays Dekompilate fuer mich, als ich das Ding mal angetestet hatte, auch nicht viel besser aussahen.</p>

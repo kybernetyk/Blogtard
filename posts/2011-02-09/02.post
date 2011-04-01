@@ -1,0 +1,5 @@
+Dass Java nur von Cubicle-Drohnen und Amateuren benutzt wird, war mir ja schon lange klar. Dass der PHP "ich schmier mal eben ab bei bestimmten Gleitkommazahlen"-Bug auch in Java auftritt, ist da nicht besonders ueberraschend. Aber Java waere nicht Java, wenns so einen Fuckup nicht noch exponentiell <a href="http://developers.slashdot.org/story/11/02/09/025237/Java-Floating-Point-Bug-Can-Lock-Up-Servers" target=sd>weiter fuck-uppen wuerd</a> ;)
+<blockquote>
+You can lock up a thread on most servers just by sending a particular header value. Sun/Oracle has known about the bug for something like 10 years, but it's still not fixed.
+ </blockquote>
+ Da basteln die gefluegelten Affen in den Oracle und MS-Labors schoene VM-sprachen/frameworks, damit auch umgelernte Lagerarbeiter einen Job als Programmierer bekommen und dann failt es an sowas. m) m) m) 
